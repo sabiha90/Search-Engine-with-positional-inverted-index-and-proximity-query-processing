@@ -1,0 +1,354 @@
+Keyword,Document Frequency,Posting List
+1,2,"'doc1', 'doc8'"
+100,1,'doc8'
+2,3,"'doc1', 'doc4', 'doc8'"
+200,1,'doc8'
+2013,1,'doc1'
+2015,1,'doc1'
+5,1,'doc1'
+6mo,1,'doc4'
+7,2,"'doc4', 'doc6'"
+720p,1,'doc4'
+abl,7,"'doc2', 'doc3', 'doc4', 'doc6', 'doc7', 'doc9', 'doc10'"
+about,2,"'doc2', 'doc6'"
+acknowledg,1,'doc8'
+actual,1,'doc3'
+ad,8,"'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc8', 'doc9', 'doc10'"
+addit,1,'doc6'
+after,1,'doc6'
+again,3,"'doc2', 'doc3', 'doc8'"
+ago,1,'doc2'
+air,2,"'doc3', 'doc8'"
+all,7,"'doc2', 'doc3', 'doc4', 'doc6', 'doc7', 'doc8', 'doc9'"
+allow,1,'doc7'
+also,1,'doc3'
+although,1,'doc8'
+am,5,"'doc2', 'doc4', 'doc6', 'doc8', 'doc10'"
+american,1,'doc8'
+amount,1,'doc8'
+an,9,"'doc1', 'doc2', 'doc3', 'doc4', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+android,2,"'doc2', 'doc6'"
+anoth,1,'doc8'
+appreci,1,'doc6'
+are,4,"'doc1', 'doc6', 'doc8', 'doc9'"
+armor,1,'doc2'
+as,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+ask,1,'doc9'
+asu,3,"'doc1', 'doc3', 'doc8'"
+automat,1,'doc8'
+avoid,1,'doc8'
+aw,2,"'doc1', 'doc9'"
+awesom,1,'doc1'
+back,2,"'doc1', 'doc2'"
+bad,1,'doc3'
+be,4,"'doc2', 'doc3', 'doc4', 'doc8'"
+becam,1,'doc8'
+becaus,1,'doc8'
+been,2,"'doc4', 'doc8'"
+befor,1,'doc2'
+big,2,"'doc2', 'doc4'"
+birthday,1,'doc2'
+book,2,"'doc2', 'doc4'"
+bought,3,"'doc4', 'doc5', 'doc8'"
+brick,1,'doc8'
+brows,1,'doc4'
+but,6,"'doc1', 'doc2', 'doc3', 'doc4', 'doc9', 'doc10'"
+button,1,'doc2'
+buy,1,'doc8'
+by,2,"'doc8', 'doc9'"
+camera,2,"'doc2', 'doc6'"
+can,3,"'doc6', 'doc8', 'doc9'"
+case,1,'doc2'
+charg,1,'doc3'
+child,1,'doc9'
+claim,1,'doc8'
+common,1,'doc8'
+compar,2,"'doc1', 'doc6'"
+complet,1,'doc8'
+confid,1,'doc8'
+control,1,'doc7'
+conveni,1,'doc4'
+convinc,1,'doc9'
+cooler,1,'doc3'
+cost,1,'doc8'
+could,1,'doc10'
+count,2,"'doc1', 'doc4'"
+counter,1,'doc1'
+cursor,1,'doc2'
+custom,1,'doc8'
+d,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+day,2,"'doc1', 'doc2'"
+deal,1,'doc8'
+dedic,1,'doc4'
+defect,1,'doc8'
+delet,1,'doc7'
+deserv,1,'doc9'
+devic,3,"'doc2', 'doc5', 'doc10'"
+devicewear,1,'doc2'
+dice,1,'doc8'
+differ,1,'doc6'
+disast,1,'doc9'
+do,5,"'doc1', 'doc7', 'doc8', 'doc9', 'doc10'"
+doe,2,"'doc1', 'doc10'"
+drop,1,'doc5'
+e,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+eas,4,"'doc4', 'doc6', 'doc7', 'doc8'"
+ebay,1,'doc8'
+ebook,1,'doc2'
+edit,1,'doc4'
+elect,1,'doc7'
+emul,1,'doc4'
+end,4,"'doc3', 'doc5', 'doc8', 'doc9'"
+environ,1,'doc3'
+estim,1,'doc8'
+etc,1,'doc5'
+even,2,"'doc1', 'doc8'"
+everyth,1,'doc10'
+expens,1,'doc8'
+experienc,1,'doc8'
+express,1,'doc8'
+fail,1,'doc8'
+fall,1,'doc9'
+fast,2,"'doc2', 'doc6'"
+feel,1,'doc6'
+few,2,"'doc3', 'doc4'"
+final,1,'doc4'
+fine,1,'doc2'
+first,2,"'doc3', 'doc8'"
+five,1,'doc3'
+fix,2,"'doc3', 'doc8'"
+flaw,2,"'doc1', 'doc9'"
+flawless,1,'doc1'
+for,5,"'doc2', 'doc3', 'doc4', 'doc8', 'doc9'"
+from,3,"'doc1', 'doc4', 'doc6'"
+frustrat,1,'doc9'
+function,1,'doc3'
+game,2,"'doc4', 'doc10'"
+garbag,1,'doc9'
+gear,1,'doc1'
+get,5,"'doc2', 'doc3', 'doc4', 'doc8', 'doc9'"
+give,1,'doc9'
+go,7,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc7', 'doc8'"
+good,4,"'doc2', 'doc4', 'doc5', 'doc8'"
+googl,3,"'doc1', 'doc7', 'doc8'"
+gopro,1,'doc4'
+got,2,"'doc3', 'doc8'"
+great,5,"'doc1', 'doc2', 'doc3', 'doc6', 'doc10'"
+guess,1,'doc6'
+ha,9,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc8', 'doc9', 'doc10'"
+had,4,"'doc3', 'doc4', 'doc8', 'doc9'"
+happen,1,'doc8'
+hard,2,"'doc1', 'doc9'"
+hardwar,2,"'doc1', 'doc9'"
+have,4,"'doc2', 'doc6', 'doc8', 'doc10'"
+he,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+hero4,1,'doc4'
+hi,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+hold,1,'doc7'
+hundr,1,'doc8'
+husband,1,'doc2'
+i,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+if,7,"'doc1', 'doc2', 'doc3', 'doc5', 'doc6', 'doc8', 'doc9'"
+immedi,1,'doc2'
+in,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+instead,3,"'doc5', 'doc8', 'doc9'"
+internet,1,'doc10'
+ipad,1,'doc2'
+iphon,1,'doc2'
+ipod,1,'doc2'
+issu,2,"'doc3', 'doc8'"
+it,9,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc8', 'doc9', 'doc10'"
+junk,1,'doc8'
+just,3,"'doc4', 'doc8', 'doc9'"
+kinemast,1,'doc4'
+know,3,"'doc1', 'doc4', 'doc8'"
+l,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+laptop,1,'doc5'
+later,1,'doc8'
+least,1,'doc7'
+less,2,"'doc1', 'doc8'"
+lg,1,'doc1'
+life,1,'doc5'
+lighter,1,'doc6'
+like,4,"'doc1', 'doc2', 'doc6', 'doc8'"
+littl,1,'doc4'
+loss,1,'doc8'
+lot,2,"'doc2', 'doc5'"
+love,2,"'doc2', 'doc8'"
+lower,1,'doc1'
+m,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+machin,1,'doc4'
+me,8,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc8', 'doc10'"
+model,1,'doc6'
+modern,1,'doc1'
+money,2,"'doc5', 'doc8'"
+month,2,"'doc3', 'doc8'"
+more,2,"'doc1', 'doc8'"
+most,1,'doc1'
+move,1,'doc2'
+movi,1,'doc4'
+much,3,"'doc2', 'doc8', 'doc9'"
+my,6,"'doc2', 'doc4', 'doc5', 'doc6', 'doc8', 'doc9'"
+myself,1,'doc9'
+net,2,"'doc4', 'doc10'"
+new,1,'doc8'
+next,1,'doc1'
+nexu,3,"'doc1', 'doc2', 'doc6'"
+nice,1,'doc10'
+no,8,"'doc1', 'doc2', 'doc3', 'doc4', 'doc6', 'doc7', 'doc8', 'doc9'"
+not,8,"'doc1', 'doc2', 'doc3', 'doc4', 'doc6', 'doc7', 'doc8', 'doc9'"
+notic,1,'doc6'
+now,4,"'doc1', 'doc2', 'doc4', 'doc8'"
+off,2,"'doc4', 'doc8'"
+older,1,'doc6'
+one,5,"'doc1', 'doc2', 'doc5', 'doc6', 'doc8'"
+onto,1,'doc4'
+oper,2,"'doc2', 'doc3'"
+option,1,'doc1'
+or,7,"'doc1', 'doc2', 'doc3', 'doc4', 'doc7', 'doc8', 'doc9'"
+os,3,"'doc1', 'doc4', 'doc8'"
+out,3,"'doc2', 'doc6', 'doc8'"
+over,3,"'doc4', 'doc6', 'doc8'"
+overal,1,'doc6'
+own,1,'doc1'
+part,1,'doc8'
+pc,1,'doc4'
+piec,2,"'doc8', 'doc9'"
+plu,1,'doc1'
+point,1,'doc9'
+port,2,"'doc1', 'doc3'"
+power,1,'doc1'
+pre,5,"'doc2', 'doc5', 'doc6', 'doc8', 'doc9'"
+prefer,1,'doc2'
+present,1,'doc9'
+price,2,"'doc1', 'doc2'"
+problem,3,"'doc3', 'doc4', 'doc8'"
+product,1,'doc8'
+profil,1,'doc1'
+protect,1,'doc2'
+protector,1,'doc2'
+purchas,1,'doc6'
+push,1,'doc8'
+put,2,"'doc2', 'doc7'"
+quit,2,"'doc5', 'doc6'"
+react,1,'doc6'
+read,3,"'doc2', 'doc8', 'doc10'"
+reader,1,'doc10'
+realiz,1,'doc9'
+rear,1,'doc6'
+recommend,1,'doc5'
+releas,1,'doc8'
+repair,2,"'doc3', 'doc8'"
+replac,1,'doc3'
+respons,3,"'doc5', 'doc6', 'doc8'"
+restart,1,'doc2'
+result,1,'doc8'
+return,1,'doc9'
+review,1,'doc8'
+revis,1,'doc8'
+ridicul,1,'doc1'
+right,1,'doc8'
+rock,1,'doc1'
+roll,2,"'doc7', 'doc8'"
+s,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+same,1,'doc10'
+save,1,'doc5'
+screen,5,"'doc1', 'doc2', 'doc3', 'doc6', 'doc8'"
+see,2,"'doc3', 'doc8'"
+seem,1,'doc3'
+send,2,"'doc3', 'doc8'"
+sensit,1,'doc3'
+sever,1,'doc5'
+shame,1,'doc8'
+shop,1,'doc4'
+should,1,'doc7'
+size,1,'doc2'
+slimport,1,'doc1'
+slow,1,'doc9'
+sluggi,1,'doc9'
+small,1,'doc2'
+so,7,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc8', 'doc9'"
+softwar,1,'doc1'
+some,3,"'doc1', 'doc2', 'doc8'"
+sometim,1,'doc2'
+son,2,"'doc1', 'doc5'"
+soon,1,'doc9'
+speaker,1,'doc6'
+special,1,'doc6'
+star,4,"'doc1', 'doc2', 'doc3', 'doc4'"
+start,3,"'doc2', 'doc3', 'doc4'"
+stero,1,'doc6'
+still,1,'doc1'
+stock,1,'doc8'
+storag,1,'doc2'
+submit,1,'doc8'
+super,1,'doc9'
+sure,1,'doc2'
+surpris,2,"'doc2', 'doc4'"
+suspens,1,'doc7'
+system,2,"'doc1', 'doc2'"
+t,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+tablet,6,"'doc2', 'doc3', 'doc4', 'doc6', 'doc9', 'doc10'"
+tech,1,'doc2'
+teen,1,'doc5'
+temperatur,1,'doc3'
+than,2,"'doc2', 'doc8'"
+that,6,"'doc1', 'doc2', 'doc3', 'doc6', 'doc8', 'doc9'"
+their,2,"'doc1', 'doc8'"
+them,2,"'doc7', 'doc8'"
+then,2,"'doc3', 'doc8'"
+they,1,'doc8'
+thi,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+thing,5,"'doc1', 'doc6', 'doc7', 'doc8', 'doc10'"
+thought,1,'doc9'
+thrill,1,'doc6'
+throw,1,'doc9'
+time,3,"'doc2', 'doc5', 'doc8'"
+to,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+too,5,"'doc1', 'doc2', 'doc7', 'doc8', 'doc9'"
+topnotch,1,'doc1'
+touch,4,"'doc2', 'doc3', 'doc6', 'doc8'"
+tough,1,'doc5'
+tri,2,"'doc8', 'doc9'"
+trivial,1,'doc8'
+two,1,'doc9'
+ugli,1,'doc9'
+unabl,1,'doc7'
+unit,1,'doc8'
+unlik,1,'doc6'
+unrespons,1,'doc8'
+up,4,"'doc1', 'doc6', 'doc8', 'doc9'"
+updat,2,"'doc1', 'doc8'"
+upgrad,1,'doc6'
+use,7,"'doc1', 'doc2', 'doc4', 'doc5', 'doc7', 'doc8', 'doc10'"
+ve,10,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc7', 'doc8', 'doc9', 'doc10'"
+vein,1,'doc9'
+video,1,'doc4'
+vimeo,1,'doc4'
+wa,8,"'doc1', 'doc2', 'doc3', 'doc4', 'doc7', 'doc8', 'doc9', 'doc10'"
+want,4,"'doc2', 'doc7', 'doc8', 'doc10'"
+warmer,1,'doc3'
+wasn,1,'doc2'
+wast,1,'doc8'
+watch,1,'doc4'
+we,5,"'doc1', 'doc2', 'doc3', 'doc4', 'doc9'"
+web,1,'doc4'
+week,1,'doc9'
+weight,1,'doc2'
+well,1,'doc2'
+went,1,'doc3'
+were,1,'doc3'
+what,1,'doc4'
+whatsoev,1,'doc4'
+when,3,"'doc1', 'doc3', 'doc8'"
+where,1,'doc2'
+which,1,'doc8'
+widespread,1,'doc8'
+will,1,'doc8'
+with,7,"'doc1', 'doc2', 'doc3', 'doc4', 'doc5', 'doc6', 'doc8'"
+won,3,"'doc2', 'doc3', 'doc8'"
+work,3,"'doc2', 'doc3', 'doc8'"
+worst,1,'doc1'
+would,3,"'doc3', 'doc5', 'doc8'"
+year,4,"'doc1', 'doc2', 'doc4', 'doc8'"
+you,3,"'doc6', 'doc7', 'doc8'"
